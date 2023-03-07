@@ -114,7 +114,72 @@ Strategies:
 * Having to move from one point to another
 * Surround it
 
+https://youtu.be/fJqr027sgPw?t=292
+Here the dragon has the hability to remove the party buffs. It also has two turns.
 
+https://youtu.be/vuMnHPNaqh0?t=12560
+In this example, the enemy always looks for the nearest coverage before doing anything else. The player can take advantage from this by predicting the next enemy move.
+Same happens here: https://youtu.be/vuMnHPNaqh0?t=11423
+This enemy alwas moves towards the nearest player or the one who has attacked him.
+
+# How to build an enemy AI
+## The Monte Carlo Search Tree Algorithm
+
+AI can function in many different ways, but on the whole, and in gaming in particular, it all comes down to decision making. Usually based on the probability of success from the outcome.
+
+Before making a move against a human opponent, the computer builds out a tree that predicts the likelihood of success of each potential move thereafter. 
+For example, if a computer needs to decide whether to defend, build technology, or attack, it will create a tree diagram to simulate each potential outcome. In this instance, attack has a higher probability of reward than the other variables, so that's what it decides to do. Once the computer has attacked and the player has chosen their next move, the computer will start building the tree once again.
+
+IMATGE HERE
+
+## How a Flow Chart Works
+A Flow Chart is a visual representation of a behavior or an algorithm. With AI, it can be used to represent the decision flow that the AI makes based on different inputs and situations.
+
+>The Monte Carlo Search Tree can be applied into a Flow Chart.
+
+IMAGE HERE
+
+In general, there are a few types of blocks:
+
+* Start and End (defines the beginning and end)
+* Step (what happens or what action is performed)
+* ??? (conditional block)
+* Comment (comment :·|)
+
+**In the end, a flow chart can be translated into If, else, for’s, whiles, etc in a programming language.**
+
+Recommended tools:
+Gojs
+Smartdraw
+LINKS HEREEEEEE
+
+# Let's create an enemy (from the presentation)
+## Previous ranged enemy flow charts
+> The following images are placeholders. They will we changed for the ones done in the class presentation
+### Ranged enemy (tactical rpg)
+### Strong slow melee enemy (turn-based rpg)
 
 ## Conclusions
+**Always Remember:**
+* Make it fun and interesting
+* Have a clear purpose when designing
+* Use a state diagram first
+* **_“I strongly encourage people to think more of "interesting behaviors" than "AI". You want units that move in interesting ways, perform memorable activities, and present unique challenges that require different approaches than other units.”_**  By Reddit User TheMaster42LoL
+
+## Webgraphy and interesting websites to expand knowledge
+https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/
+
+https://megacatstudios.com/blogs/retro-development/enemy-design-101-apeels-court
+
+https://chat.openai.com/
+
+https://www.novatech.co.uk/blog/business/artificial-intelligence-in-video-games/
+
+https://www.coolsmartphone.com/2020/07/17/importance-of-artificial-intelligence-in-gaming/
+
+https://gnd-tech.com/2021/10/the-importance-of-artificial-intelligence-in-gaming/
+
+https://www.gamedeveloper.com/design/the-perfect-organism-the-ai-of-alien-isolation
+
+https://www.reddit.com/r/gamedev/comments/enabqz/how_does_the_ai_in_turn_based_rpgs_work/
 
