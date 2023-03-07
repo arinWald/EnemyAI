@@ -187,19 +187,19 @@ Recommended tools:
 
 [Google Slides Presentation Link (Please acces with the UPC mail)](https://docs.google.com/presentation/d/1aJIVstgZRtikvVOLOiIABWozvTRzPAmTMc7HX_8zWjo/edit?usp=sharing)
 
-https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/
+[](https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/)
 
-https://megacatstudios.com/blogs/retro-development/enemy-design-101-apeels-court
+[](https://megacatstudios.com/blogs/retro-development/enemy-design-101-apeels-court)
 
-https://chat.openai.com/
+[](https://chat.openai.com/)
 
-https://www.novatech.co.uk/blog/business/artificial-intelligence-in-video-games/
+[](https://www.novatech.co.uk/blog/business/artificial-intelligence-in-video-games/)
 
-https://www.coolsmartphone.com/2020/07/17/importance-of-artificial-intelligence-in-gaming/
+[](https://www.coolsmartphone.com/2020/07/17/importance-of-artificial-intelligence-in-gaming/)
 
-https://gnd-tech.com/2021/10/the-importance-of-artificial-intelligence-in-gaming/
+[](https://gnd-tech.com/2021/10/the-importance-of-artificial-intelligence-in-gaming/)
 
-https://www.gamedeveloper.com/design/the-perfect-organism-the-ai-of-alien-isolation
+[](https://www.gamedeveloper.com/design/the-perfect-organism-the-ai-of-alien-isolation)
 
-https://www.reddit.com/r/gamedev/comments/enabqz/how_does_the_ai_in_turn_based_rpgs_work/
+[](https://www.reddit.com/r/gamedev/comments/enabqz/how_does_the_ai_in_turn_based_rpgs_work/)
 
