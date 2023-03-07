@@ -12,7 +12,6 @@ There are different types of AI, such as:
 
 ### Some examples of AI... or not AI?
 | Thing  | Answer |
-| ------------- |:-------------:|
 | Alexa      | Yes    |
 | Self-Driving car      | Yes    |
 | Youtube recommendations algorithm      | Yes    |
@@ -69,6 +68,7 @@ Turn-Based RPG's are not the most exciting games because of their combat system.
 This adds more complexity layers and makes a more interesting battle.
 
 ![Advance_Wars-58b981f84e38e](https://user-images.githubusercontent.com/99820809/223563691-94b32498-2cfc-44f8-a60c-042af6b2690c.jpg)
+
 Not only you can focus on attack but in the defense too. In advance wars, you can win the game by either killing the enemies or destroying their base, the one the enemies should defend.
 
 ### Scaling difficulty of the RPG trough enemy AI
