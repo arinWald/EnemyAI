@@ -187,19 +187,19 @@ Recommended tools:
 
 [Google Slides Presentation Link (Please acces with the UPC mail)](https://docs.google.com/presentation/d/1aJIVstgZRtikvVOLOiIABWozvTRzPAmTMc7HX_8zWjo/edit?usp=sharing)
 
-[](https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/)
+[Enemy AI Design - RPG Maker Forums](https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/)
 
-[](https://megacatstudios.com/blogs/retro-development/enemy-design-101-apeels-court)
+[Enemy Design - MegaCatStudios](https://megacatstudios.com/blogs/retro-development/enemy-design-101-apeels-court)
 
-[](https://chat.openai.com/)
+[ChatGPT - OpenAI](https://chat.openai.com/)
 
-[](https://www.novatech.co.uk/blog/business/artificial-intelligence-in-video-games/)
+[Artificial Intelligence in video games - Novatech](https://www.novatech.co.uk/blog/business/artificial-intelligence-in-video-games/)
 
-[](https://www.coolsmartphone.com/2020/07/17/importance-of-artificial-intelligence-in-gaming/)
+[Importance of artificial Intelligence in gaming - Coolsmartphone](https://www.coolsmartphone.com/2020/07/17/importance-of-artificial-intelligence-in-gaming/)
 
-[](https://gnd-tech.com/2021/10/the-importance-of-artificial-intelligence-in-gaming/)
+[The importance of articifial intelligence of gaming - GND-Tech](https://gnd-tech.com/2021/10/the-importance-of-artificial-intelligence-in-gaming/)
 
-[](https://www.gamedeveloper.com/design/the-perfect-organism-the-ai-of-alien-isolation)
+[The perfect organistm the AI of Alien Isolation - GameDeveloper](https://www.gamedeveloper.com/design/the-perfect-organism-the-ai-of-alien-isolation)
 
-[](https://www.reddit.com/r/gamedev/comments/enabqz/how_does_the_ai_in_turn_based_rpgs_work/)
+[How does the AI in turn based RPGs Work - Reddit](https://www.reddit.com/r/gamedev/comments/enabqz/how_does_the_ai_in_turn_based_rpgs_work/)
 
