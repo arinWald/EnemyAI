@@ -132,6 +132,11 @@ For example, if a computer needs to decide whether to defend, build technology, 
 
 IMATGE HERE
 
+**Possible uses of this algorithm**
+* Create the perfect enemy
+* Maximum difficulty
+
+
 ## How a Flow Chart Works
 A Flow Chart is a visual representation of a behavior or an algorithm. With AI, it can be used to represent the decision flow that the AI makes based on different inputs and situations.
 
@@ -167,6 +172,9 @@ LINKS HEREEEEEE
 * **_“I strongly encourage people to think more of "interesting behaviors" than "AI". You want units that move in interesting ways, perform memorable activities, and present unique challenges that require different approaches than other units.”_**  By Reddit User TheMaster42LoL
 
 ## Webgraphy and interesting websites to expand knowledge
+
+PPT LINK
+
 https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/
 
 https://megacatstudios.com/blogs/retro-development/enemy-design-101-apeels-court
