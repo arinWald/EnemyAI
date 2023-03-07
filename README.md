@@ -97,8 +97,7 @@ Just by giving them more attack, more health and so is not the best way to impro
 * Buffs and debuffs
 * Turns economy (if the enemy or the allies can attack twice, or once, or none etc...)
 
-**The key is to design with a purpose in mind (applied to every kind of design)
-Think what we want the player to do or thing during the battle**
+**The key is to design with a purpose in mind (applied to every kind of design) Think what we want the player to do or thing during the battle**
 
 ---
 
