@@ -126,7 +126,7 @@ Here the dragon has the hability to remove the party buffs. It also has two turn
 [Mario And Rabbids: Kingdom Battle - Rabbid behaviour example looking for coverage](https://youtu.be/vuMnHPNaqh0?t=12560)
 In this example, the enemy always looks for the nearest coverage before doing anything else. The player can take advantage from this by predicting the next enemy move.
 [Same happens here](https://youtu.be/vuMnHPNaqh0?t=11423)
-This enemy alwas moves towards the nearest player or the one who has attacked him.
+This enemy always moves towards the nearest player or the one who has attacked him.
 
 # How to build an enemy AI
 ## The Monte Carlo Search Tree Algorithm
@@ -136,7 +136,7 @@ AI can function in many different ways, but on the whole, and in gaming in parti
 Before making a move against a human opponent, the computer builds out a tree that predicts the likelihood of success of each potential move thereafter. 
 For example, if a computer needs to decide whether to defend, build technology, or attack, it will create a tree diagram to simulate each potential outcome. In this instance, attack has a higher probability of reward than the other variables, so that's what it decides to do. Once the computer has attacked and the player has chosen their next move, the computer will start building the tree once again.
 
-IMATGE HERE
+![monte-carlo-search-tree-algorithm](https://user-images.githubusercontent.com/99820809/223564885-8f716f4f-0947-4fb1-93eb-cfdc646a5caa.png)
 
 **Possible uses of this algorithm**
 * Create the perfect enemy
@@ -148,7 +148,7 @@ A Flow Chart is a visual representation of a behavior or an algorithm. With AI, 
 
 >The Monte Carlo Search Tree can be applied into a Flow Chart.
 
-IMAGE HERE
+![Captura de pantalla 2023-03-07 231039](https://user-images.githubusercontent.com/99820809/223565088-1f93a332-26fc-4a87-a2f7-132e7b482aa0.png)
 
 In general, there are a few types of blocks:
 
@@ -160,15 +160,18 @@ In general, there are a few types of blocks:
 **In the end, a flow chart can be translated into If, else, for’s, whiles, etc in a programming language.**
 
 Recommended tools:
-Gojs
-Smartdraw
-LINKS HEREEEEEE
+[Gojs](https://gojs.net/latest/samples/flowchart.html)
+[Smartdraw](https://cloud.smartdraw.com/?nsu=1)
 
 # Let's create an enemy (from the presentation)
 ## Previous ranged enemy flow charts
 > The following images are placeholders. They will we changed for the ones done in the class presentation
 ### Ranged enemy (tactical rpg)
+![image6](https://user-images.githubusercontent.com/99820809/223565296-4853a9d2-f876-4a1c-b5e4-18a0c3ec9a1f.png)
+
 ### Strong slow melee enemy (turn-based rpg)
+![image3](https://user-images.githubusercontent.com/99820809/223565342-b4a13d4e-b6c8-4453-8c7c-4942a73c931b.png)
+
 
 ## Conclusions
 **Always Remember:**
@@ -179,7 +182,7 @@ LINKS HEREEEEEE
 
 ## Webgraphy and interesting websites to expand knowledge
 
-PPT LINK
+[Google Slides Presentation Link (Please acces with the UPC mail)](https://docs.google.com/presentation/d/1aJIVstgZRtikvVOLOiIABWozvTRzPAmTMc7HX_8zWjo/edit?usp=sharing)
 
 https://forums.rpgmakerweb.com/index.php?threads/enemy-ai-design.124200/
 
