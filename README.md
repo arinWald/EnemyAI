@@ -137,8 +137,10 @@ For example, if a computer needs to decide whether to defend, build technology, 
 ![monte-carlo-search-tree-algorithm](https://user-images.githubusercontent.com/99820809/223564885-8f716f4f-0947-4fb1-93eb-cfdc646a5caa.png)
 
 **Possible uses of this algorithm**
+
 * Create the perfect enemy
 * Maximum difficulty
+
 ---
 
 ## How a Flow Chart Works
