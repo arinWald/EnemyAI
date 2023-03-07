@@ -168,6 +168,7 @@ Recommended tools:
 # Let's create an enemy (from the presentation)
 ## Previous ranged enemy flow charts
 > The following images are placeholders. They will we changed for the ones done in the class presentation
+
 ### Ranged enemy (tactical rpg)
 ![image6](https://user-images.githubusercontent.com/99820809/223565296-4853a9d2-f876-4a1c-b5e4-18a0c3ec9a1f.png)
 
