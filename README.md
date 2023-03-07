@@ -1,7 +1,9 @@
 # EnemyAI
+![R](https://user-images.githubusercontent.com/99820809/223563084-eb3e7480-8bfa-46fc-9500-b902ed6b288f.jpg)
 
 ## What is an AI?
 An AI (Artificial Intelligence) is a computer program or system that can perform tasks that normally require human intelligence, such as recognizing speech, identifying images, making decisions, and learning from experience. AI systems use algorithms and statistical models to analyze data, identify patterns, and make predictions or decisions based on that data.
+![AI](https://user-images.githubusercontent.com/99820809/223563165-fd90a7c3-1233-4f4a-850b-de9733404cef.jpg)
 
 There are different types of AI, such as:
 * **Rule-based systems**: these use a set of predefined rules to make decisions or perform tasks.
@@ -39,12 +41,12 @@ Stored patterns to simulate arbitrary enemy movement. Space Invaders, 1978, was 
 #### Pac-Man - 1980
 In 1980, Pac-Man also hit the arcades, bringing AI into a complex maze game, allowing the colorful characters involved to exhibit different personality traits.
 
-IMAGE HERE
+![pacman_500px](https://user-images.githubusercontent.com/99820809/223563383-9bdbb45e-18ac-4c39-ad80-ac7eba1e204b.jpg)
 
 #### The Sims - 2000
 Heavy reliance on AI allowed the player to assume the role of an omnipotent being from the comfort of their own home, able to watch their characters live their own independent lives with minimal required input.
 
-IMAGE HERE
+![R](https://user-images.githubusercontent.com/99820809/223563467-50d40ba5-0756-4f0e-bcb4-4ea901cbd907.png)
 
 ### **More complicated and unpredictable player behavior:**
 
@@ -63,8 +65,11 @@ Turn-Based RPG's are not the most exciting games because of their combat system.
 
 [We don’t want this kind of battles (Dragon Quest VIII)](https://youtu.be/R6rYzl_BUog?t=292) where the player only attacks and the enemy attacks and nothing else.
 
-[Here’s a different example (the first boss is a good example](https://www.youtube.com/watch?v=0gvW2sIQ7po&ab_channel=FelipeNascimento). This Final Fantasy VII Boss has more variation. It has an ability that targets one single enemy to attack (Search Scope) and the most exciting thing here is that suddently his tail elevates. When this happens, the player should not attack him; otherwise it will get counterattacked. 
+[Here’s a different example (the first boss is a good example)](https://www.youtube.com/watch?v=0gvW2sIQ7po&ab_channel=FelipeNascimento). This Final Fantasy VII Boss has more variation. It has an ability that targets one single enemy to attack (Search Scope) and the most exciting thing here is that suddently his tail elevates. When this happens, the player should not attack him; otherwise it will get counterattacked. 
 This adds more complexity layers and makes a more interesting battle.
+
+![Advance_Wars-58b981f84e38e](https://user-images.githubusercontent.com/99820809/223563691-94b32498-2cfc-44f8-a60c-042af6b2690c.jpg)
+Not only you can focus on attack but in the defense too. In advance wars, you can win the game by either killing the enemies or destroying their base, the one the enemies should defend.
 
 ### Scaling difficulty of the RPG trough enemy AI
 A simple way to scale difficulty is through the enemy stats, and thats ok, but boring.
@@ -77,6 +82,7 @@ Just by giving them more attack, more health and so is not the best way to impro
 * And many more possibilities…
 
 ### Tactical RPGs - Things to take into account
+![final-fantasy-tactics-advance-13 big](https://user-images.githubusercontent.com/99820809/223564238-a11af8db-8c36-471b-aae8-30d7f6379cfc.jpg)
 * Enemies have to know the player’s position
 * Know if the terrain is “cheap” of “expensive” and decide the best way to travel (pathfinding). 
 * Does the terrain have any advantages that modifies the gameplay?
@@ -114,12 +120,12 @@ Strategies:
 * Having to move from one point to another
 * Surround it
 
-https://youtu.be/fJqr027sgPw?t=292
+[Dragon Quest VIII dragon boss example](https://youtu.be/fJqr027sgPw?t=292)
 Here the dragon has the hability to remove the party buffs. It also has two turns.
 
-https://youtu.be/vuMnHPNaqh0?t=12560
+[Mario And Rabbids: Kingdom Battle - Rabbid behaviour example looking for coverage](https://youtu.be/vuMnHPNaqh0?t=12560)
 In this example, the enemy always looks for the nearest coverage before doing anything else. The player can take advantage from this by predicting the next enemy move.
-Same happens here: https://youtu.be/vuMnHPNaqh0?t=11423
+[Same happens here](https://youtu.be/vuMnHPNaqh0?t=11423)
 This enemy alwas moves towards the nearest player or the one who has attacked him.
 
 # How to build an enemy AI
