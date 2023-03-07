@@ -92,9 +92,27 @@ Just by giving them more attack, more health and so is not the best way to impro
 * Buffs and debuffs
 * Turns economy (if the enemy or the allies can attack twice, or once, or none etc...)
 
->**The key is to design with a purpose in mind (applied to every kind of design)
->Think what we want the player to do or thing during the battle**
+**The key is to design with a purpose in mind (applied to every kind of design)
+Think what we want the player to do or thing during the battle**
+# 
+Let’s imagine that we want an enemy that is strong but slow. _Makes an attack every 2 turns and frequently his attack is critical._ **What we want the player to do?** 
+* Think carefully what to do in those turns and take risky decisions. 
+* Try to focus more on defense rather than attack.
 
+Different strategies:
+* Use first turn to attack and second to defend?
+* Attack two times but risk of insta-kill an ally?
+* Use both turns to save strength, get attacked, strength again and then huge attack?
+
+# 
+
+Another example: _a ranged enemy that is always far from you and you cannot attack ranged._ **What we want the player to do?** 
+** Surround the enemy to the map limit and do not let it move.
+
+Strategies:
+* Move all your units for only one enemy
+* Having to move from one point to another
+* Surround it
 
 
 
