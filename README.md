@@ -68,13 +68,33 @@ This adds more complexity layers and makes a more interesting battle.
 
 ### Scaling difficulty of the RPG trough enemy AI
 A simple way to scale difficulty is through the enemy stats, and thats ok, but boring.
-* Another way is to improve their AI.
+Just by giving them more attack, more health and so is not the best way to improve the difficulty. However, we can be more creative.Another way is to improve their AI, here are some ideas.
 * Focus on the healer first
 * Use positioning strategies like surrounding
 * Use items by itself or use some buffs
 * Focus on the weakest character
 * Defend their own allies or heal them
 * And many more possibilities…
+
+### Tactical RPGs - Things to take into account
+* Enemies have to know the player’s position
+* Know if the terrain is “cheap” of “expensive” and decide the best way to travel (pathfinding). 
+* Does the terrain have any advantages that modifies the gameplay?
+* Know the stats of themselves and the characters’
+* Is Melee: prioritizes closing the distance to the target
+* Is Manged: prioritizes keeping a distance from the target
+
+### Tactical RPGs - Things to take into account
+* Everyone’s stats (enemies and allies)
+* Timing (FF vs DQ)
+* Position --> [Chrono Trigger has a system where the enemy positioning is important](https://youtu.be/083D9MO6Ths?t=1959)
+* Items available to use
+* Buffs and debuffs
+* Turns economy (if the enemy or the allies can attack twice, or once, or none etc...)
+
+>**The key is to design with a purpose in mind (applied to every kind of design)
+>Think what we want the player to do or thing during the battle**
+
 
 
 
