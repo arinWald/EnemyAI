@@ -155,7 +155,7 @@ In general, there are a few types of blocks:
 * Start and End (defines the beginning and end)
 * Step (what happens or what action is performed)
 * ??? (conditional block)
-* Comment (comment :·|)
+* Comment
 
 **In the end, a flow chart can be translated into If, else, for’s, whiles, etc in a programming language.**
 
