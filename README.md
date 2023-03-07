@@ -160,7 +160,9 @@ In general, there are a few types of blocks:
 **In the end, a flow chart can be translated into If, else, for’s, whiles, etc in a programming language.**
 
 Recommended tools:
+
 [Gojs](https://gojs.net/latest/samples/flowchart.html)
+
 [Smartdraw](https://cloud.smartdraw.com/?nsu=1)
 
 # Let's create an enemy (from the presentation)
